@@ -1,3 +1,4 @@
 USE videoSQLSSH
+GO
 INSERT INTO video VALUE
 (1, 'Video 1')
